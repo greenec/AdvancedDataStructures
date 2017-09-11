@@ -1,0 +1,7 @@
+C:\Users\eahscs\Documents\GitHub\AdvancedDataStructures\PrimeSolver\bin\Debug\PrimeSolver.exe.config
+C:\Users\eahscs\Documents\GitHub\AdvancedDataStructures\PrimeSolver\bin\Debug\PrimeSolver.exe
+C:\Users\eahscs\Documents\GitHub\AdvancedDataStructures\PrimeSolver\bin\Debug\PrimeSolver.pdb
+C:\Users\eahscs\Documents\GitHub\AdvancedDataStructures\PrimeSolver\obj\Debug\PrimeSolver.csprojResolveAssemblyReference.cache
+C:\Users\eahscs\Documents\GitHub\AdvancedDataStructures\PrimeSolver\obj\Debug\PrimeSolver.csproj.CoreCompileInputs.cache
+C:\Users\eahscs\Documents\GitHub\AdvancedDataStructures\PrimeSolver\obj\Debug\PrimeSolver.exe
+C:\Users\eahscs\Documents\GitHub\AdvancedDataStructures\PrimeSolver\obj\Debug\PrimeSolver.pdb
